@@ -6,7 +6,7 @@ using namespace std;
 // Caso de estudio #1 Grupo #4 integrantes
 // Axel Ulate Ulate
 // Esteban Wu Zhen
-//
+// Alejandro Somogyi Murillo
 
 const int MAX = 100; // Tamaño máximo del vector
 
