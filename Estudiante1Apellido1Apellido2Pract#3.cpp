@@ -407,7 +407,8 @@ int main()
             mostrarNodo();
             modificarNodoRepetidos();
             system("cls");
-
+			break;
+			
         case 8:
             popRepetidos();
             mostrarNodo();
